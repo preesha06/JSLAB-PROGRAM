@@ -25,4 +25,5 @@ function addTask() {
         document.getElementById("taskInput").value=""; 
 
 }
+
     
